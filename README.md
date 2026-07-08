@@ -120,18 +120,6 @@ I've gained hands-on experience through personal projects and my Project Interns
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imriyamandal&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=imriyamandal&show_icons=true&theme=tokyonight&hide_border=true"/>
-</td>
-
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imriyamandal&theme=tokyonight&hide_border=true"/>
-</td>
-</tr>
-</table>
-
 </div>
 
 <div align="center">
