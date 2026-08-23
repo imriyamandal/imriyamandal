@@ -114,14 +114,6 @@ Personal portfolio showcasing projects, skills, and experience, with a clean, re
 
 <br/>
 
-## GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imriyamandal&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imriyamandal&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="49%" />
-</div>
-
-<br/>
 
 ### 🚀 GitHub Activity
 
