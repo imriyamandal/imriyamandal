@@ -111,7 +111,8 @@ Full-stack expense management app.
 
 `React` `FastAPI` `SQLite`
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imriyamandal)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imriyamandal/Personal-Finance-Tracker)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2EE6D6?style=flat-square&logo=streamlit&logoColor=black)](https://personal-finance-tracker-ruddy-theta.vercel.app/)
 
 </td>
 </tr>
@@ -165,27 +166,11 @@ Smart India Hackathon project providing citizen services.
 
 `Python` `Full-Stack`
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imriyamandal)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imriyamandal/ip-sakti)
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imriyamandal&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imriyamandal&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imriyamandal&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <br/>
 
@@ -212,43 +197,9 @@ Smart India Hackathon project providing citizen services.
 <a href="https://codeforces.com/profile/imriyamandal">
   <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
-<a href="https://auth.geeksforgeeks.org/user/imriyamandal">
+<a href="https://www.geeksforgeeks.org/profile/riya3vliu">
   <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
-</p>
-
-<br/>
-
-## Journey
-
-<div align="center">
-
-**2024** → Started AI & DS (IBM)
-
-⬇️
-
-**2025** → Built ML & Analytics Projects
-
-⬇️
-
-**2026** → NIT Jamshedpur Internship
-
-⬇️
-
-**2026** → OutbreakIQ
-
-⬇️
-
-**2028** → Target Software Engineer @ Google 🎯
-
-</div>
-
-<br/>
-
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imriyamandal&theme=algolia&no-frame=true&row=1"/>
 </p>
 
 <br/>
