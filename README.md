@@ -3,223 +3,292 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imriyamandal/imriyamandal/main/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imriyamandal/imriyamandal/main/banner-light.svg">
-  <img alt="Riya Mandal Banner" src="https://raw.githubusercontent.com/imriyamandal/imriyamandal/main/banner-light.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/imriyamandal/imriyamandal/main/banner-light.svg" width="100%" alt="Riya Mandal Banner">
 </picture>
 
 # Riya Mandal
 
-### AI & Data Science (IBM) • Backend Developer • Machine Learning · Open Source Learner
+### AI & Data Science (IBM) Undergraduate • AI Engineer • Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2EE6D6&center=true&vCenter=true&width=600&lines=Building+AI+that+solves+real-world+problems;AI+%26+Data+Science+(IBM)+Undergraduate;Machine+Learning+%7C+Predictive+Modeling;FastAPI+%7C+Streamlit+%7C+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2EE6D6&center=true&vCenter=true&width=700&lines=Building+AI+that+solves+real-world+problems.;Machine+Learning+%7C+Backend+Engineering.;FastAPI+%7C+Python+%7C+XGBoost+%7C+React.;Open+to+Internships+%26+Open+Source+Collaboration."/>
 
-**CGPA 9.62** &nbsp;·&nbsp; 🏆 **TATA Cummins Scholar** &nbsp;·&nbsp; 🔬 **NIT Jamshedpur Intern** &nbsp;·&nbsp; 💼 **Open to Internships**
+**CGPA 9.62 • TATA Cummins Scholar • Ex Project Intern at NIT Jamshedpur**
 
-📍 Jamshedpur, India &nbsp;·&nbsp; 🎓 Arka Jain University
+📍 Jamshedpur, India
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyamandal.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyamandal25/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://riyamandal.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyamandal25/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyamandal.email@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=imriyamandal&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=imriyamandal&color=blueviolet&style=flat-square)
 
 </div>
 
-<br/>
+---
 
-## About Me
+# About Me
 
-I'm a **B.Tech AI & Data Science (IBM)** student at Arka Jain University (**CGPA: 9.62**) with hands-on experience building machine learning systems, FastAPI backends, and data analytics solutions.
+I'm a **B.Tech AI & Data Science (IBM)** student at **Arka Jain University** with a **9.62 CGPA**, passionate about building AI systems that solve practical problems through machine learning, backend engineering, and intelligent automation.
 
-During my internship at **NIT Jamshedpur**, I developed **OutbreakIQ**, an AI-powered disease outbreak prediction & early warning system with explainable ML models and REST APIs.
+During my internship at **NIT Jamshedpur**, I developed **OutbreakIQ**, an AI-powered disease outbreak prediction and early warning system using explainable machine learning models and FastAPI.
 
-- 🎓 B.Tech AI & Data Science (IBM)
-- ⭐ CGPA: **9.62**
-- 🏆 TATA Cummins Scholar
-- 🔬 Ex Project Intern — NIT Jamshedpur
-- 💼 Open to AI/ML, Backend & Software Development Internships
+Currently, I'm strengthening my foundation in **Data Structures & Algorithms**, **System Design**, and **Agentic AI** while building production-oriented AI applications.
 
-<br/>
+### Quick Snapshot
 
-## Tech Stack
+- AI & Data Science (IBM) Undergraduate
+- 9.62 CGPA
+- TATA Cummins Scholar
+- Ex Project Intern — NIT Jamshedpur
+- Open to AI/ML, Backend & Software Engineering Internships
 
-**Languages**
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+# Tech Stack
 
-**AI & Machine Learning**
+## Languages
 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0E7C7B?style=for-the-badge&logo=xgboost&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql"/>
+</p>
 
-**Backend**
+## AI & Machine Learning
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-025E8C?style=for-the-badge&logo=fastapi&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+</p>
 
-**Frontend**
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/XGBoost-0E7C7B?style=for-the-badge">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+</p>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+## Backend
 
-**Tools & Platforms**
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## Frontend
 
-<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+</p>
 
-## Featured Projects
+## Databases & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=sqlite,postgres,docker,git,github"/>
+<img src="https://img.shields.io/badge/IBM_Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+</p>
+
+---
+
+# Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-**🦠 OutbreakIQ — Disease Outbreak Prediction & Early Warning System**
+## OutbreakIQ
 
-AI-powered healthcare surveillance platform.
+AI-powered disease outbreak prediction and early warning system built during my NIT Jamshedpur internship.
 
-- ⚙️ Built **dual XGBoost models** for classification & forecasting
-- 🔌 Developed **FastAPI backend** for real-time predictions
-- 📊 Integrated **Explainable AI (XAI)**
-- 🖥️ Created **Streamlit dashboard**
+**Highlights**
 
-`Python` `FastAPI` `XGBoost` `Streamlit` `Scikit-learn` `Plotly`
+- Dual XGBoost prediction models
+- FastAPI backend
+- Explainable AI insights
+- Interactive Streamlit dashboard
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imriyamandal/OutbreakIQ)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2EE6D6?style=flat-square&logo=streamlit&logoColor=black)](https://outbreakiq-rehms3tb4adaawtcexvk7w.streamlit.app/)
+**Tech**
+
+`Python` `FastAPI` `XGBoost` `Streamlit`
+
+[Repository](https://github.com/imriyamandal/OutbreakIQ)
 
 </td>
+
 <td width="50%" valign="top">
 
-**💳 Personal Finance Tracker**
+## Personal Finance Tracker
 
-Full-stack expense management app.
+Full-stack finance management application with intelligent expense analytics.
 
-- 💸 **Expense tracking** with categorization
-- 📈 **Spending prediction** using ML
-- 🏷️ **Transaction classification**
-- 🗄️ **SQLite backend**
+**Highlights**
+
+- Expense categorization
+- ML-powered spending prediction
+- React + FastAPI architecture
+- SQLite database
+
+**Tech**
 
 `React` `FastAPI` `SQLite`
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imriyamandal/Personal-Finance-Tracker)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2EE6D6?style=flat-square&logo=streamlit&logoColor=black)](https://personal-finance-tracker-ruddy-theta.vercel.app/)
+[Repository](https://github.com/imriyamandal/Personal-Finance-Tracker)
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-**🎓 CourseBot — AI Course Generator**
+## CourseBot
 
-AI-powered course generator.
+AI-powered course generator deployed on IBM Cloud.
 
-- ☁️ Deployed on **IBM Cloud**
-- 🤖 **AI-generated course outlines**
-- 🔌 **FastAPI backend**
+**Highlights**
 
-`Python` `IBM Cloud` `AI/ML`
+- AI-generated learning plans
+- FastAPI backend
+- IBM Cloud deployment
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imriyamandal/ai-course-generator-ibm-cloud)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2EE6D6?style=flat-square&logo=vercel&logoColor=black)](https://coursebot.vercel.app/)
+**Tech**
+
+`Python` `FastAPI` `IBM Cloud`
+
+[Repository](https://github.com/imriyamandal/ai-course-generator-ibm-cloud)
 
 </td>
+
 <td width="50%" valign="top">
 
-**🚧 Road Accident Analysis Dashboard**
+## Road Accident Analysis
 
-Interactive Power BI dashboard analyzing road accident data — trends by location, time, severity, and contributing factors, with drill-down filters to surface high-risk zones and peak accident periods.
+Interactive Power BI dashboard analyzing accident severity, trends, and high-risk zones.
 
-`Power BI` `Data Analysis` `MS Excel`
+**Tech**
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imriyamandal/road-accident-analysis-powerbi)
+`Power BI` `Excel`
+
+[Repository](https://github.com/imriyamandal/road-accident-analysis-powerbi)
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-**🌐 Portfolio Website**
+## IP-SAKTI Sahayak
 
-Personal portfolio showcasing projects, skills, and experience with a clean, responsive design.
+Citizen-service solution developed for Smart India Hackathon.
+
+**Tech**
+
+`Python` `Full Stack`
+
+[Repository](https://github.com/imriyamandal/ip-sakti)
+
+</td>
+
+<td width="50%" valign="top">
+
+## Portfolio Website
+
+Modern responsive portfolio showcasing projects and achievements.
+
+**Tech**
 
 `React` `Tailwind CSS`
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imriyamandal/riyamandal)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2EE6D6?style=flat-square&logo=vercel&logoColor=black)](https://riyamandal.vercel.app/)
+[Live Portfolio](https://riyamandal.vercel.app)
 
 </td>
-<td width="50%" valign="top">
 
-**🏛️ IP-SAKTI Sahayak — SIH Project**
-
-Smart India Hackathon project providing citizen services.
-
-`Python` `Full-Stack`
-
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imriyamandal/ip-sakti)
-
-</td>
 </tr>
+
 </table>
 
-<br/>
+---
 
-### 🚀 GitHub Activity
+# GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=imriyamandal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=imriyamandal&theme=tokyonight&hide_border=true"/>
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imriyamandal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Activity
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imriyamandal/imriyamandal/output/commit-invaders-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imriyamandal/imriyamandal/output/commit-invaders.svg">
-  <img alt="Commit Invaders" src="https://raw.githubusercontent.com/imriyamandal/imriyamandal/output/commit-invaders.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/imriyamandal/imriyamandal/output/commit-invaders.svg" width="100%" alt="Commit Invaders">
 </picture>
 
 </div>
 
-<br/>
+---
 
-## Coding Profiles
-
-<p align="center">
-<a href="https://leetcode.com/imriyamandal">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://codeforces.com/profile/imriyamandal">
-  <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-<a href="https://www.geeksforgeeks.org/profile/riya3vliu">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-</p>
-
-<br/>
-
-## Let's Connect
-
-<p align="center">
-<a href="mailto:riyamandal.email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/riyamandal25/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://riyamandal.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
+# Coding Profiles
 
 <div align="center">
 
-📫 **riyamandal.email@gmail.com** &nbsp;·&nbsp; Let's connect and build something impactful together.
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_riyamandal/)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/imriyamandal)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/riya3vliu)
+
+</div>
+
+---
+
+# Currently Learning
+
+- Advanced Data Structures & Algorithms
+- SQL Optimization
+- Machine Learning System Design
+- LangChain & LangGraph
+- AI Agents & MCP
+- Distributed Systems Fundamentals
+
+---
+
+# Career Goals
+
+I'm working toward becoming an **AI Engineer** capable of building production-ready intelligent systems that combine machine learning, backend engineering, and scalable software architecture.
+
+My current focus includes:
+
+- Production ML Systems
+- AI Agents
+- FastAPI Backend Development
+- System Design
+- Open Source Contributions
+- Interview Preparation for Top Product-Based Companies
+
+---
+
+# Let's Build Something Impactful
+
+I'm always interested in collaborating on meaningful AI, backend, and open-source projects.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://riyamandal.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyamandal25/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyamandal.email@gmail.com)
+
+**"Building technology that creates measurable real-world impact."**
 
 </div>
